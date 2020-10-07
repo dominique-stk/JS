@@ -2,3 +2,5 @@
 2 - melhorar o primeiro programa, mostrando para o mais velho se ele está apto a dirigir
 3 - criar uma nova branch de development e criar a feature-03 com o corpo de uma função
 4 - criar funcao Somar na feature-03
+
+BUG - Arrumar mensagem de retorno da feature-02 (Segunda pessoa ainda é de menor e legalmente não pode dirigir, 7)
