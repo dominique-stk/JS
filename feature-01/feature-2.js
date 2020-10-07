@@ -3,11 +3,11 @@ var idadeSegundaPessoa = 7
 
 
 if( idadePrimeiraPessoa >= 18 && idadeSegundaPessoa < 18){
-    console.log(`Você te mais de 18 anos e já pode dirigir, \nPessoa mais velha com a idade de ${idadePrimeiraPessoa}, Segunda pessoa ainda é de menor e legalmente não pode dirigir, ${idadeSegundaPessoa}`)
+    console.log(`Você tem mais de 18 anos e já pode dirigir, \nidade da pessoa mais velha ${idadePrimeiraPessoa}, Segunda pessoa ainda é de menor e legalmente não pode dirigir, pois sua idade é de ${idadeSegundaPessoa} anos`)
 }
 
 else if(idadeSegundaPessoa >= 18 &&  idadePrimeiraPessoa < 18){
-    console.log(`Você te mais de 18 anos e já pode dirigir, \nPessoa mais velha com a idade de ${idadeSegundaPessoa}, Segunda pessoa ainda é de menor e legalmente não pode dirigir, ${idadePrimeiraPessoa}`)
+    console.log(`Você tem mais de 18 anos e já pode dirigir, \nidade da pessoa mais velha ${idadeSegundaPessoa}, Segunda pessoa ainda é de menor e legalmente não pode dirigir, pois sua idade é de  ${idadePrimeiraPessoa}anos`)
 }
 
 else if (idadePrimeiraPessoa >= 18 && idadeSegundaPessoa >= 18){
