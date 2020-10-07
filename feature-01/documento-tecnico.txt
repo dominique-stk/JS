@@ -1,1 +1,2 @@
 1 - Criar um programa que tenha duas variaveis guardando a idade de duas pessoas e comparar quem é mais velho
+2 - melhorar o primeiro programa, mostrando para o mais velho se ele está apto a dirigir
