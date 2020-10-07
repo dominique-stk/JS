@@ -1,3 +1,4 @@
 1 - Criar um programa que tenha duas variaveis guardando a idade de duas pessoas e comparar quem é mais velho
 2 - melhorar o primeiro programa, mostrando para o mais velho se ele está apto a dirigir
 3 - criar uma nova branch de development e criar a feature-03 com o corpo de uma função
+4 - criar funcao Somar na feature-03
